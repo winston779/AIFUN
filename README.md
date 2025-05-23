@@ -1,6 +1,6 @@
 # AIFUN机场官网地址
 
-最新地址：[afun.la](https://afun.la/register?code=WmjIkHVH)
+最新地址：[afun.la](https://dash.afun.la/register?code=WmjIkHVH)
 
 ## AIFUN介绍
 
